@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit Prakash</h1>
-<h3 align="center">Data Scientist with 3+ years of experience in Machine Learning, Deep Learning, using language to understand computers, and analyzing data over time. Successfully developed projects with companies like KPMG, Board Infinity, and Echo India.</h3>
+<h3 align="center">A Data Scientist with 3+ years of experience in Machine Learning, Deep Learning, using language to understand computers, and analyzing data over time. Successfully developed projects with companies like KPMG, Board Infinity, and Echo India.</h3>
 
 - 💬 Ask me about **Machine learning, Deep learning, NLP, Generative AI**
 
